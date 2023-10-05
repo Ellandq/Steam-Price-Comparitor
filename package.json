@@ -1,0 +1,14 @@
+{
+  "name": "steam-price-checker",
+  "version": "1.0.0",
+  "description": "A price comparison application using the steam API",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Maja Wasilewska",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.4"
+  }
+}
